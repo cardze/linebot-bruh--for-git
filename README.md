@@ -19,16 +19,16 @@ what you need to deploy this CUTE BOT :
     
 deploy command:
   first deployment:
-    ```
-    git init
-    heroku login
-    heroku create
-    git push heroku master
-    ```
+```
+git init
+heroku login
+heroku create
+git push heroku master
+```
   every time you update and deploy :
-    ```
-    git add .
-    git commit -am "make it better"
-    git push heroku master // or git push -f heroku $(BRANCH_NAME)::master , if you work on different branch
-    ```
+```
+git add .
+git commit -am "make it better"
+git push heroku master // or git push -f heroku $(BRANCH_NAME)::master , if you work on different branch
+```
 Enjoy!!
