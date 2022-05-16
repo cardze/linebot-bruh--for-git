@@ -11,12 +11,12 @@
 }
 ```
 
-what you need to deploy this CUTE BOT :
-  heroku : 
-    heroku FREE account : https://signup.heroku.com/
-    prepare heroku on your CLI : https://devcenter.heroku.com/articles/heroku-cli
-  line :
-    step by step official tutorial : https://developers.line.biz/en/docs/messaging-api/building-bot/
+* what you need to deploy this CUTE BOT :
+  * heroku : 
+   * heroku FREE account : https://signup.heroku.com/
+   * prepare heroku on your CLI : https://devcenter.heroku.com/articles/heroku-cli
+  * line :
+    * step by step official tutorial : https://developers.line.biz/en/docs/messaging-api/building-bot/
     
 deploy command:
   first deployment:
